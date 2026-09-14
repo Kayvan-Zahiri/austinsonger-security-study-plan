@@ -78,6 +78,7 @@ See, if you can finish your resume in 1-2 pages. Check 1 page resume from below 
 8. [Lead DevSecOps Resume Example](https://www.livecareer.com/resume-search/r/lead-devsecops-engineer-53a226a3bebc4987af0dea7ce0c6740b)
 9. [Sr. DevSecOps Engineer Resume Example](https://www.livecareer.com/resume-search/r/sr-devsecops-engineer-81ad059140cf43fda69e77d614d65685)
 10. [Penetration Tester Consultant Resume Sample](https://www.livecareer.com/resume-search/r/penetration-tester-consultant-25926a15cbac482883f8d00d26da0d86)
+11. [ResumeAI](https://withresumeai.com/) - Free ATS resume checker (3/day anonymous, 10/day free account) and open State of ATS 2026 (738 employers; Workday 37.9%)
 
 ## Finding the right job
 You might see hundreds of job openings, some may be from your dream company. But, once you closely look it doesn't match with your skills. It seems job title was little misleading and more of a generic. Like security researched or security analyst are just few examples.
